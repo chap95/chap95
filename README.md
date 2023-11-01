@@ -7,16 +7,9 @@
 <img src="https://img.shields.io/badge/Next-000000?style=flat-square&logo=Next.js&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/ReactQuery-FF4154?style=flat-square&logo=ReactQuery&logoColor=white"/>&nbsp 
 <img src="https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=Jest&logoColor=white"/>&nbsp 
+<img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat-square&logo=Flutter&logoColor=white" />&nbsp
 </p>
 <br />
-<h3 align="center">🥊 I'm interested in...</h3>
-<p align="center">
-<img src="https://img.shields.io/badge/RubyOnRails-CC0000?style=flat-square&logo=RubyOnRails&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=Selenium&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=GraphQL&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Jotai-000000?style=flat-square&logoColor=white"/>&nbsp 
-<img src="https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white"/>&nbsp 
-</p>
 <!--
 **chap95/chap95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
